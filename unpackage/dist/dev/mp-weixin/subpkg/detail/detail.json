@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "详情页",
+  "usingComponents": {
+    "home-swiper": "../../components/home-swiper/home-swiper",
+    "comment-item": "../../components/comment-item/comment-item"
+  }
+}

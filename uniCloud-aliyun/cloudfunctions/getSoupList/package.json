@@ -1,0 +1,7 @@
+{
+  "name": "getSoupList",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
